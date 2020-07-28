@@ -78,7 +78,7 @@
 			"wowID":"16935"
 		},
 		"Judgement Bindings":{
-			"prio":["PuffBuffCast(1)","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"",
 			"wowID":"16951"
 		},
@@ -369,7 +369,7 @@
 			"wowID":"19397"
 		},
 		"Rejuvenating Gem":{
-			"prio":["Jowsus(1)","Silkybalboa(1)","Celesdea","Doligrian","EP/GP"],
+			"prio":["Jowsus(1)","Silkybalboa(1)","Doligrian(3)","EP/GP"],
 			"gp":"",
 			"wowID":"19395"
 		},
